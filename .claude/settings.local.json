@@ -12,7 +12,9 @@
       "Bash(git --version)",
       "Bash(winget install *)",
       "Bash(git *)",
-      "Bash(vercel *)"
+      "Bash(vercel *)",
+      "Bash(gh auth *)",
+      "Bash(gh api *)"
     ]
   }
 }
